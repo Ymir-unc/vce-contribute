@@ -13,3 +13,4 @@ Add your name to the list below and link to your GitHub profile. Additionally, y
 
 ## Students
 
+[Johann Kemp](https://github.com/Ymir-unc) - Student, Gamer, Gym-goer
